@@ -33,3 +33,9 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# Files generatd by Webpack
+public/bundle.js
+public/bundle.js.map
+public/styles.css
+public/styles.css.map
